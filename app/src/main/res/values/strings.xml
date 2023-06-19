@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">game_tictactoe</string>
+    <string name="button_ground">button_ground</string>
+    <string name="volume_off">Volume Off</string>
+    <string name="volume_on">Volume On</string>
+    <string name="volumeoff">Volume Off 🔈</string>
+    <string name="volumeon">Volume On 🔊</string>
+    <string name="todo">TODO</string>
+</resources>

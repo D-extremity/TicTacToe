@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/volumeoff" android:icon="@drawable/baseline_volume_off_24"
+   android:title="@string/volume_off"
+    app:showAsAction="always"/>
+    <item android:id="@+id/volumeon" android:icon="@drawable/baseline_volume_up_24"
+        android:title="@string/volume_on"
+        app:showAsAction="ifRoom"/>
+<item android:title="About Us"
+    android:id="@+id/about"
+    />
+</menu>
